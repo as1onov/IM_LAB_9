@@ -1,0 +1,22 @@
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\bin\Debug\Lab9.EventsGeneration.exe.config
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\bin\Debug\Lab9.EventsGeneration.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\bin\Debug\Lab9.EventsGeneration.pdb
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\obj\Debug\Lab9.EventsGeneration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\obj\Debug\Lab8._3.EventsGeneration.ChartForm.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\obj\Debug\Lab8._3.EventsGeneration.MainForm.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\obj\Debug\Lab9.EventsGeneration.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\obj\Debug\Lab9.EventsGeneration.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\obj\Debug\Lab9.EventsGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\obj\Debug\Lab9.EventsGeneration.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3\Lab8.3.EventsGeneration\obj\Debug\Lab9.EventsGeneration.pdb
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\bin\Debug\Lab9.EventsGeneration.exe.config
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\bin\Debug\Lab9.EventsGeneration.exe
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\bin\Debug\Lab9.EventsGeneration.pdb
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\obj\Debug\Lab9.EventsGeneration.csproj.AssemblyReference.cache
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\obj\Debug\Lab8._3.EventsGeneration.ChartForm.resources
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\obj\Debug\Lab8._3.EventsGeneration.MainForm.resources
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\obj\Debug\Lab9.EventsGeneration.Properties.Resources.resources
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\obj\Debug\Lab9.EventsGeneration.csproj.GenerateResource.cache
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\obj\Debug\Lab9.EventsGeneration.csproj.CoreCompileInputs.cache
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\obj\Debug\Lab9.EventsGeneration.exe
+C:\Users\umid\source\repos\Lab9\Lab9.EventsGeneration\obj\Debug\Lab9.EventsGeneration.pdb

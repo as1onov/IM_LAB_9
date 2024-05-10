@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\bin\Debug\Lab8.3.EventsGeneration.exe.config
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\bin\Debug\Lab8.3.EventsGeneration.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\bin\Debug\Lab8.3.EventsGeneration.pdb
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\obj\Debug\Lab8.3.EventsGeneration.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\obj\Debug\Lab8._3.EventsGeneration.MainForm.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\obj\Debug\Lab8._3.EventsGeneration.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\obj\Debug\Lab8.3.EventsGeneration.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\obj\Debug\Lab8.3.EventsGeneration.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\obj\Debug\Lab8.3.EventsGeneration.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\obj\Debug\Lab8.3.EventsGeneration.pdb
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab8.3.EventsGeneration\obj\Debug\Lab8._3.EventsGeneration.ChartForm.resources
